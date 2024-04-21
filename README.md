@@ -1,1 +1,17 @@
 # webscrabs
+
+## Passos
+
+git clone URL_DO_REPOSITORIO
+
+cd caminho_do_projeto
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python project_v1.py
+
+deactivate
