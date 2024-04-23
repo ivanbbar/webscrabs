@@ -53,7 +53,7 @@ def scrape_stats(page):
             club = item.inner_text()
             clubs.append(club)
 
-    game_dict = {'Team': [1, 2], 'Club': clubs[0:2]}
+    game_dict = {'Team': [1, 0], 'Club': clubs[0:2]}
 
     return data_dict, game_dict
 
