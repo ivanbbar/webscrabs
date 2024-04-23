@@ -12,6 +12,6 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-python project_v1.py
+python project_v3.py
 
 deactivate
