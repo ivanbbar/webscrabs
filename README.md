@@ -15,3 +15,8 @@ pip install -r requirements.txt
 python project_v3.py
 
 deactivate
+
+## Entragas
+
+2 - Código "extrac_data.py" executa a extração de dados e uma parte da limpeza. Código "analyse_data.py" finaliza a limpeza e inicia a análise.
+    
