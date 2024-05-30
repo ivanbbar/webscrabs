@@ -112,9 +112,8 @@ def main():
         print(f"Processing {href}...")
         df = process_page(href, players_clubs)
         if len(df) > 21:
-            csv_filename = f"match_{idx}_stats.csv"
+            csv_filename = f"csvs/match_{idx}_stats.csv"
             df.to_csv(csv_filename)
-            print(df)
             print("Ok")
         else:
             print("Skipped - Number of rows in DataFrame is not the minimum.")
