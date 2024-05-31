@@ -4,7 +4,7 @@ import time
 
 def get_match_page_hrefs(page_url):
     with sync_playwright() as p:
-        browser = p.chromium.launch(executable_path="/usr/bin/google-chrome", headless=True)
+        browser = p.chromium.launch(executable_path="/usr/bin/google-chrome", headless=False)
         page = browser.new_page()
 
         try:
@@ -64,7 +64,7 @@ def load_players_clubs(file_path):
 
 def process_page(page_url, players_clubs):
     with sync_playwright() as p:
-        browser = p.chromium.launch(executable_path="/usr/bin/google-chrome", headless=True)
+        browser = p.chromium.launch(executable_path="/usr/bin/google-chrome", headless=False)
         page = browser.new_page()
         page.goto(page_url)
         time.sleep(5)

@@ -1,32 +1,28 @@
 ,Player,G,A,RC,YC,Crn,S,SOnT,BS,P,C,Tk,O,FC,FW,Team,Club
-0,T. Mitchell,0,0,0,0,0,1,0,1,38,4,3,0,0,0,1,Crystal Palace FC
-1,E. Eze,2,1,0,0,1,5,4,1,37,1,4,1,1,2,1,Crystal Palace FC
-2,C. Richards,0,0,0,0,0,0,0,0,62,0,1,0,0,0,1,Crystal Palace FC
-3,J. Andersen,0,0,0,1,0,0,0,0,86,0,1,0,2,0,1,Crystal Palace FC
-4,N. Clyne,0,0,0,0,0,0,0,0,43,0,1,0,0,0,1,Crystal Palace FC
-5,M. Guéhi,0,0,0,0,0,0,0,0,44,0,1,0,0,0,,
-6,M. Olise,0,1,0,0,1,6,2,1,56,4,0,0,3,3,1,Crystal Palace FC
-7,D. Muñoz,0,1,0,0,0,0,0,0,46,1,2,1,2,0,1,Crystal Palace FC
-8,A. Wharton,0,0,0,0,0,0,0,0,68,0,2,0,1,0,1,Crystal Palace FC
-9,J. Mateta,3,1,0,0,0,3,3,0,13,0,1,1,0,2,1,Crystal Palace FC
-10,D. Henderson,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,Crystal Palace FC
-11,J. Lerma,0,0,0,0,0,0,0,0,21,0,1,0,0,0,1,Crystal Palace FC
-12,O. Édouard,0,0,0,0,0,0,0,0,4,0,0,0,0,1,1,Crystal Palace FC
-13,J. Tomkins,0,0,0,0,0,0,0,0,10,0,0,0,0,0,,
-14,J. Riedewald,0,0,0,0,0,0,0,0,9,0,0,0,0,0,1,Crystal Palace FC
-15,J. Ayew,0,0,0,0,0,0,0,0,5,0,0,0,1,0,1,Crystal Palace FC
-16,O. Watkins,0,0,0,0,1,2,0,0,11,0,0,0,1,2,0,Aston Villa FC
-17,C. Chambers,0,0,0,0,0,0,0,0,49,0,2,0,2,1,0,Aston Villa FC
-18,Douglas Luiz,0,0,0,1,0,0,0,0,57,3,1,0,1,0,0,Aston Villa FC
-19,Diego Carlos,0,0,0,0,0,1,0,0,73,0,0,0,0,0,0,Aston Villa FC
-20,L. Digne,0,0,0,1,0,0,0,0,35,6,4,0,1,2,0,Aston Villa FC
-21,E. Konsa,0,0,0,0,0,1,0,0,55,0,1,0,0,1,0,Aston Villa FC
-22,J. Durán,0,0,0,0,0,2,0,0,23,0,0,1,0,0,0,Aston Villa FC
-23,M. Diaby,0,0,0,0,3,2,2,0,15,0,0,0,0,0,0,Aston Villa FC
-24,J. McGinn,0,0,0,1,0,0,0,0,20,1,1,0,1,2,0,Aston Villa FC
-25,R. Olsen,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,Aston Villa FC
-26,C. Lenglet,0,0,0,1,0,0,0,0,67,0,0,0,0,2,0,Aston Villa FC
-27,O. Kellyman,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,Aston Villa FC
-28,T. Iroegbunam,0,0,0,0,0,0,0,0,7,0,0,0,2,0,0,Aston Villa FC
-29,F. Munroe,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,
-30,Kaine Kesler-Hayden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aston Villa FC
+0,T. Chirewa,0,0,0,0,0,1,1,0,21,0,2,0,1,0,1,Wolverhampton Wanderers FC
+1,T. Doyle,0,0,0,0,0,0,0,0,72,2,1,0,1,0,1,Wolverhampton Wanderers FC
+2,M. Doherty,0,0,0,0,1,0,0,0,33,1,3,0,0,1,1,Wolverhampton Wanderers FC
+3,José Sá,0,0,0,0,0,0,0,0,56,0,0,0,0,0,1,Wolverhampton Wanderers FC
+4,Toti Gomes,0,0,0,1,0,0,0,0,43,0,0,0,3,0,1,Wolverhampton Wanderers FC
+5,B. Traoré,0,0,0,0,0,1,0,0,38,0,6,0,2,1,1,Wolverhampton Wanderers FC
+6,M. Kilman,0,0,0,1,0,0,0,0,91,0,2,0,0,0,1,Wolverhampton Wanderers FC
+7,S. Bueno,0,0,0,0,0,0,0,0,46,0,1,0,0,1,1,Wolverhampton Wanderers FC
+8,Hugo Bueno,0,0,0,0,0,1,0,0,20,2,1,0,1,1,1,Wolverhampton Wanderers FC
+9,Hwang Hee-Chan,0,0,0,1,0,0,0,0,10,0,2,0,2,2,1,Wolverhampton Wanderers FC
+10,João Gomes,0,0,0,0,0,1,1,0,17,0,3,0,3,2,1,Wolverhampton Wanderers FC
+11,M. Lemina,0,0,0,0,0,1,1,0,7,0,0,1,1,1,1,Wolverhampton Wanderers FC
+12,Pablo Sarabia,0,0,0,0,0,0,0,0,6,1,0,0,0,0,1,Wolverhampton Wanderers FC
+13,R. Aït-Nouri,0,0,0,0,0,0,0,0,5,0,2,0,0,0,1,Wolverhampton Wanderers FC
+14,J. Kiwior,0,0,0,0,0,0,0,0,35,2,1,0,0,2,0,Arsenal FC
+15,K. Havertz,0,0,0,0,0,5,2,3,41,0,0,0,2,0,0,Arsenal FC
+16,B. White,0,0,0,0,0,1,0,0,73,1,0,2,0,1,0,Arsenal FC
+17,L. Trossard,1,0,0,1,1,1,1,0,24,2,2,0,2,0,0,Arsenal FC
+18,W. Saliba,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,Arsenal FC
+19,D. Rice,0,0,0,1,1,4,2,1,61,0,4,0,1,1,0,Arsenal FC
+20,B. Saka,0,0,0,0,0,4,1,2,57,2,0,0,0,4,0,Arsenal FC
+21,Gabriel Magalhães,0,0,0,0,0,0,0,0,57,0,3,0,1,2,0,Arsenal FC
+22,M. Ødegaard,1,0,0,0,0,5,1,2,33,2,0,0,2,2,0,Arsenal FC
+23,Gabriel Jesus,0,1,0,0,0,2,0,1,27,2,0,0,1,1,0,Arsenal FC
+24,David Raya,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,Arsenal FC
+25,Gabriel Martinelli,0,0,0,0,0,2,2,0,7,0,1,0,0,1,0,Arsenal FC
+26,T. Partey,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,Arsenal FC

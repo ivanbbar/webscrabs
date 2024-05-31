@@ -1,28 +1,33 @@
 ,Player,G,A,RC,YC,Crn,S,SOnT,BS,P,C,Tk,O,FC,FW,Team,Club
-0,K. De Bruyne,0,0,0,0,2,6,3,2,83,5,3,0,0,2,1,Manchester City FC
-1,S. Ortega,0,0,0,0,0,0,0,0,17,0,0,0,0,0,1,Manchester City FC
-2,J. Gvardiol,0,0,0,0,0,1,0,0,74,0,5,0,0,1,1,Manchester City FC
-3,M. Akanji,0,0,0,0,1,2,1,1,79,0,1,0,0,0,1,Manchester City FC
-4,Rúben Dias,0,0,0,0,1,1,0,0,58,0,1,0,0,0,1,Manchester City FC
-5,P. Foden,2,0,0,0,1,6,4,0,78,7,0,0,0,1,1,Manchester City FC
-6,K. Walker,0,0,0,0,0,0,0,0,111,0,2,0,0,0,,
-7,J. Doku,0,1,0,0,4,4,2,2,32,1,5,0,1,3,1,Manchester City FC
-8,E. Haaland,0,0,0,0,1,4,0,2,16,0,0,3,1,2,1,Manchester City FC
-9,Bernardo Silva,0,2,0,0,1,1,0,0,86,1,1,0,0,1,1,Manchester City FC
-10,Rodri,1,0,0,0,0,3,2,0,125,0,1,0,0,0,1,Manchester City FC
-11,N. Aké,0,0,0,0,0,0,0,0,19,0,0,0,0,0,1,Manchester City FC
-12,M. Kovačić,0,0,0,0,0,0,0,0,4,0,0,0,1,0,1,Manchester City FC
-13,T. Souček,0,0,0,0,0,0,0,0,28,0,3,0,4,2,0,West Ham United FC
-14,Lucas Paquetá,0,0,0,0,0,0,0,0,29,0,0,0,1,0,0,West Ham United FC
-15,J. Ward-Prowse,0,0,0,0,0,0,0,0,29,2,0,0,0,0,0,West Ham United FC
-16,,0,0,0,0,0,0,0,0,29,0,0,0,0,0,,
-17,M. Antonio,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,West Ham United FC
-18,A. Cresswell,0,0,0,0,0,0,0,0,39,1,0,0,0,0,0,West Ham United FC
-19,Emerson,0,0,0,0,0,0,0,0,19,0,2,0,0,0,0,West Ham United FC
-20,K. Mavropanos,0,0,0,0,0,1,0,0,27,0,2,0,1,1,0,West Ham United FC
-21,M. Kudus,1,0,0,0,1,2,2,0,23,0,2,0,2,0,0,West Ham United FC
-22,K. Zouma,0,0,0,0,0,0,0,0,34,0,0,0,1,0,0,West Ham United FC
-23,V. Coufal,0,0,0,0,1,0,0,0,25,3,5,0,1,0,0,West Ham United FC
-24,E. Álvarez,0,0,0,1,0,0,0,0,12,0,0,0,2,0,0,West Ham United FC
-25,G. Earthy,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,West Ham United FC
-26,D. Ings,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,West Ham United FC
+0,M. Olise,1,1,0,0,2,4,2,1,56,1,0,0,1,3,1,Crystal Palace FC
+1,E. Eze,1,1,0,0,2,7,2,1,42,4,1,0,1,1,1,Crystal Palace FC
+2,W. Hughes,0,0,0,1,0,0,0,0,53,1,4,0,1,2,1,Crystal Palace FC
+3,A. Wharton,0,0,0,0,0,0,0,0,53,1,4,0,1,0,1,Crystal Palace FC
+4,D. Muñoz,0,0,0,0,0,0,0,0,69,1,8,0,3,0,1,Crystal Palace FC
+5,N. Clyne,0,0,0,0,0,0,0,0,70,0,4,0,1,0,1,Crystal Palace FC
+6,J. Andersen,0,1,0,0,0,1,0,0,83,1,2,0,0,0,1,Crystal Palace FC
+7,T. Mitchell,0,0,0,1,0,2,0,0,44,0,4,0,0,0,1,Crystal Palace FC
+8,C. Richards,0,0,0,0,0,0,0,0,50,0,2,0,0,0,1,Crystal Palace FC
+9,D. Henderson,1,0,0,0,0,0,0,0,25,0,0,0,0,0,1,Crystal Palace FC
+10,J. Mateta,2,0,0,0,0,3,3,0,18,1,0,0,0,0,1,Crystal Palace FC
+11,N. Ahamada,0,0,0,1,0,0,0,0,34,0,4,0,1,1,1,Crystal Palace FC
+12,O. Édouard,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,Crystal Palace FC
+13,J. Ayew,0,0,0,0,0,0,0,0,20,1,3,0,0,0,1,Crystal Palace FC
+14,J. Riedewald,0,0,0,0,0,1,0,0,15,0,2,0,0,1,1,Crystal Palace FC
+15,J. Schlupp,0,0,0,0,0,0,0,0,7,0,1,0,0,0,1,Crystal Palace FC
+16,Ł. Fabiański,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,West Ham United FC
+17,Emerson,1,0,0,0,0,0,0,0,37,3,3,0,0,3,0,West Ham United FC
+18,Lucas Paquetá,0,0,0,0,0,0,0,0,42,0,4,0,2,1,0,West Ham United FC
+19,E. Álvarez,0,0,0,0,0,0,0,0,34,1,5,0,1,0,0,West Ham United FC
+20,T. Souček,0,1,0,1,0,0,0,0,14,0,2,0,1,1,0,West Ham United FC
+21,A. Ogbonna,0,0,0,0,0,1,0,0,16,0,1,0,0,0,0,West Ham United FC
+22,V. Coufal,0,0,0,0,0,0,0,0,29,0,2,0,0,0,0,West Ham United FC
+23,M. Antonio,1,0,0,1,0,2,1,0,13,0,0,0,1,1,0,West Ham United FC
+24,J. Ward-Prowse,0,0,0,0,0,0,0,0,50,2,4,0,1,1,0,West Ham United FC
+25,M. Kudus,0,0,0,0,0,1,0,1,17,0,0,3,1,1,0,West Ham United FC
+26,K. Zouma,0,0,0,0,0,0,0,0,36,0,1,0,0,0,0,West Ham United FC
+27,A. Cresswell,0,0,0,0,0,0,0,0,39,0,0,1,1,0,0,West Ham United FC
+28,B. Johnson,0,0,0,0,0,0,0,0,36,0,1,0,0,0,,Tottenham Hotspur FC
+29,D. Ings,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,West Ham United FC
+30,K. Phillips,0,0,0,0,0,0,0,0,14,0,2,0,1,0,0,West Ham United FC
+31,M. Cornet,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,West Ham United FC

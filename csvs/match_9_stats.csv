@@ -1,33 +1,30 @@
 ,Player,G,A,RC,YC,Crn,S,SOnT,BS,P,C,Tk,O,FC,FW,Team,Club
-0,C. Nørgaard,0,0,0,0,0,0,0,0,78,1,2,0,5,2,1,Brentford FC
-1,Sergio Reguilón,0,0,0,0,0,0,0,0,39,5,2,0,0,0,1,Brentford FC
-2,V. Janelt,1,0,0,0,0,1,1,0,36,2,1,0,1,0,1,Brentford FC
-3,I. Toney,0,1,0,1,0,4,2,0,19,0,1,0,2,3,1,Brentford FC
-4,M. Roerslev,0,0,0,0,2,0,0,0,23,3,2,0,0,0,1,Brentford FC
-5,E. Pinnock,0,0,0,0,0,0,0,0,46,0,0,0,0,0,1,Brentford FC
-6,M. Flekken,0,0,0,0,0,0,0,0,36,0,0,0,0,0,1,Brentford FC
-7,M. Jørgensen,0,0,0,0,0,0,0,0,66,0,2,0,0,0,1,Brentford FC
-8,M. Jensen,0,0,0,1,0,0,0,0,34,1,1,1,2,1,1,Brentford FC
-9,B. Mbeumo,0,0,0,0,1,0,0,0,28,3,1,0,1,1,1,Brentford FC
-10,Y. Wissa,1,1,0,1,0,4,1,1,19,0,0,0,2,3,1,Brentford FC
-11,M. Damsgaard,0,0,0,0,0,0,0,0,17,1,0,0,0,0,1,Brentford FC
-12,S. Ghoddos,0,0,0,0,0,0,0,0,11,0,2,0,1,1,1,Brentford FC
-13,N. Maupay,0,0,0,1,0,0,0,0,5,0,0,0,1,0,1,Brentford FC
-14,K. Schade,0,0,0,0,0,0,0,0,8,1,0,1,0,0,1,Brentford FC
-15,Y. Yarmoliuk,0,0,0,0,0,1,1,0,6,0,0,0,0,0,1,Brentford FC
-16,A. Isak,1,1,0,0,0,4,3,0,22,0,0,1,0,1,0,Newcastle United FC
-17,Bruno Guimarães,1,2,0,0,0,1,1,0,70,1,1,0,2,5,0,Newcastle United FC
-18,E. Krafth,0,0,0,1,0,0,0,0,31,1,0,0,1,1,0,Newcastle United FC
-19,J. Murphy,1,0,0,0,0,4,2,1,26,2,1,0,0,0,0,Newcastle United FC
-20,S. Longstaff,0,0,0,0,0,0,0,0,31,1,1,0,1,0,0,Newcastle United FC
-21,N. Pope,0,0,0,1,0,0,0,0,29,0,0,0,0,1,,
-22,H. Barnes,1,0,0,0,0,1,1,0,20,0,0,0,0,2,0,Newcastle United FC
-23,L. Hall,0,0,0,0,0,0,0,0,43,3,4,0,0,2,0,Newcastle United FC
-24,Joelinton,0,0,0,1,0,1,0,0,41,0,4,0,1,0,,
-25,D. Burn,0,0,0,1,0,0,0,0,28,0,0,0,1,0,0,Newcastle United FC
-26,F. Schär,0,0,0,0,0,1,0,1,34,0,1,0,2,0,0,Newcastle United FC
-27,M. Almirón,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,Newcastle United FC
-28,E. Anderson,0,0,0,0,0,0,0,0,9,0,2,0,2,1,0,Newcastle United FC
-29,K. Trippier,0,0,0,0,0,0,0,0,11,0,0,0,0,0,,
-30,C. Wilson,0,0,0,0,0,0,0,0,4,0,0,0,1,0,,
-31,P. Dummett,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Newcastle United FC
+0,B. White,0,0,0,1,0,0,0,0,29,1,6,1,0,0,1,Arsenal FC
+1,D. Rice,0,0,0,0,0,2,0,0,60,0,3,0,2,1,1,Arsenal FC
+2,David Raya,0,0,0,0,0,0,0,0,19,0,0,0,0,0,1,Arsenal FC
+3,B. Saka,0,0,0,0,1,4,0,0,42,6,2,0,0,3,1,Arsenal FC
+4,W. Saliba,0,0,0,0,0,0,0,0,48,0,1,0,1,0,1,Arsenal FC
+5,O. Zinchenko,0,0,0,0,0,1,0,0,50,0,1,0,0,0,1,Arsenal FC
+6,L. Trossard,0,0,0,0,0,2,1,1,26,1,2,0,2,0,1,Arsenal FC
+7,Gabriel Magalhães,0,0,0,1,0,0,0,0,45,0,0,0,2,0,1,Arsenal FC
+8,M. Ødegaard,0,0,0,0,1,3,0,3,44,0,1,0,1,1,1,Arsenal FC
+9,Gabriel Jesus,0,0,0,0,0,3,1,1,14,0,1,2,0,1,1,Arsenal FC
+10,K. Havertz,0,0,0,1,2,3,2,1,23,1,1,1,1,0,1,Arsenal FC
+11,T. Tomiyasu,0,0,0,0,0,0,0,0,15,3,0,0,0,0,1,Arsenal FC
+12,Gabriel Martinelli,0,0,0,0,0,0,0,0,3,1,2,1,1,0,1,Arsenal FC
+13,E. Smith Rowe,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,Arsenal FC
+14,Jorginho,0,0,0,0,0,0,0,0,19,0,1,0,0,0,1,Arsenal FC
+15,E. Nketiah,0,0,0,0,0,0,0,0,3,0,0,0,2,0,1,Arsenal FC
+16,M. Rogers,0,0,0,1,0,1,0,1,25,0,0,0,0,3,0,Aston Villa FC
+17,Y. Tielemans,0,1,0,0,1,1,0,0,49,6,4,0,1,1,0,Aston Villa FC
+18,J. McGinn,0,0,0,0,1,1,0,1,30,1,3,0,0,1,0,Aston Villa FC
+19,O. Watkins,1,0,0,0,0,4,1,0,15,0,2,0,0,2,0,Aston Villa FC
+20,L. Digne,0,1,0,0,1,1,0,1,29,4,0,0,2,0,0,Aston Villa FC
+21,Diego Carlos,0,0,0,0,0,0,0,0,59,0,2,0,2,0,0,Aston Villa FC
+22,Pau Torres,0,0,0,0,1,0,0,0,76,0,2,0,0,0,0,Aston Villa FC
+23,E. Martínez,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,Aston Villa FC
+24,E. Konsa,0,0,0,0,0,0,0,0,35,2,0,0,0,3,0,Aston Villa FC
+25,M. Diaby,0,0,0,0,0,1,0,1,16,0,2,0,0,0,0,Aston Villa FC
+26,N. Zaniolo,0,0,0,0,2,1,0,1,23,1,2,0,2,1,0,Aston Villa FC
+27,L. Bailey,1,0,0,0,0,1,1,0,10,0,0,1,0,1,0,Aston Villa FC
+28,Álex Moreno,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,Aston Villa FC

@@ -1,29 +1,33 @@
 ,Player,G,A,RC,YC,Crn,S,SOnT,BS,P,C,Tk,O,FC,FW,Team,Club
-0,D. Rice,0,0,0,1,1,2,1,0,51,4,2,0,3,0,1,Arsenal FC
-1,David Raya,0,0,0,0,0,0,0,0,15,0,0,0,0,0,1,Arsenal FC
-2,B. White,0,0,0,0,0,0,0,0,70,1,0,0,0,0,1,Arsenal FC
-3,W. Saliba,0,0,0,0,0,0,0,0,93,0,1,0,0,2,1,Arsenal FC
-4,T. Tomiyasu,1,0,0,0,1,4,1,2,47,1,0,0,0,1,1,Arsenal FC
-5,K. Havertz,1,0,0,1,1,9,1,4,22,1,1,0,0,1,1,Arsenal FC
-6,M. Ødegaard,0,2,0,0,0,2,1,0,60,10,1,0,0,1,1,Arsenal FC
-7,Gabriel Martinelli,0,0,0,0,1,2,1,0,47,8,0,0,0,0,1,Arsenal FC
-8,Gabriel Magalhães,0,0,0,0,0,1,0,1,45,0,1,0,0,1,1,Arsenal FC
-9,T. Partey,0,0,0,1,0,1,0,0,84,0,0,0,3,1,1,Arsenal FC
-10,L. Trossard,0,0,0,0,1,1,0,1,30,1,0,1,1,1,1,Arsenal FC
-11,O. Zinchenko,0,0,0,0,1,0,0,0,39,1,0,0,0,0,1,Arsenal FC
-12,J. Timber,0,0,0,1,1,0,0,0,22,1,1,0,1,0,,
-13,E. Smith Rowe,0,0,0,0,0,3,0,1,15,0,0,0,0,1,1,Arsenal FC
-14,Gabriel Jesus,0,0,0,0,1,1,0,1,13,0,0,0,0,1,1,Arsenal FC
-15,J. Pickford,0,0,0,1,0,0,0,0,27,0,0,0,0,0,0,Everton FC
-16,J. Branthwaite,0,0,0,0,0,0,0,0,25,0,1,1,0,1,0,Everton FC
-17,I. Gueye,1,0,0,0,0,1,1,0,40,0,0,0,0,1,0,Everton FC
-18,A. Young,0,0,0,0,0,0,0,0,34,0,4,0,0,0,0,Everton FC
-19,D. Calvert-Lewin,0,0,0,0,0,4,1,1,11,0,0,1,2,1,0,Everton FC
-20,S. Coleman,0,0,0,0,0,0,0,0,18,1,0,0,2,0,0,Everton FC
-21,J. Garner,0,0,0,0,0,0,0,0,22,0,3,0,1,0,0,Everton FC
-22,A. Doucouré,0,0,0,1,0,0,0,0,28,0,1,1,3,1,0,Everton FC
-23,J. Tarkowski,0,0,0,1,0,0,0,0,21,0,3,0,2,1,0,Everton FC
-24,D. McNeil,0,0,0,0,1,0,0,0,36,2,1,0,1,2,0,Everton FC
-25,A. Onana,0,0,0,0,0,0,0,0,33,0,4,0,0,1,,Manchester United FC
-26,Youssef Chermiti,0,0,0,0,0,0,0,0,5,0,0,1,0,0,0,Everton FC
-27,Norberto Bercique Gomes Betuncal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+0,D. Ings,0,0,0,0,1,3,1,0,23,0,0,0,1,1,1,West Ham United FC
+1,N. Aguerd,0,0,0,0,0,0,0,0,72,1,3,0,1,0,1,West Ham United FC
+2,K. Mavropanos,0,0,0,0,0,1,1,0,40,0,1,0,0,0,1,West Ham United FC
+3,Lucas Paquetá,0,0,0,1,0,3,1,1,70,7,1,0,1,4,1,West Ham United FC
+4,Emerson,0,0,0,0,0,0,0,0,79,1,5,0,1,1,1,West Ham United FC
+5,J. Ward-Prowse,0,0,0,0,1,2,1,0,43,7,0,0,0,0,1,West Ham United FC
+6,Ł. Fabiański,0,0,0,0,0,0,0,0,17,0,0,0,0,0,1,West Ham United FC
+7,M. Kudus,0,0,0,0,1,4,0,1,33,7,2,1,1,2,1,West Ham United FC
+8,V. Coufal,0,0,0,0,2,1,0,0,34,5,1,0,0,1,1,West Ham United FC
+9,M. Antonio,0,0,0,0,1,1,0,0,25,2,0,0,0,1,1,West Ham United FC
+10,E. Álvarez,0,0,0,0,0,0,0,0,50,0,2,0,0,2,1,West Ham United FC
+11,K. Zouma,0,0,0,0,0,0,0,0,25,0,0,0,0,0,1,West Ham United FC
+12,B. Johnson,0,0,0,0,2,0,0,0,16,5,0,0,0,0,,Tottenham Hotspur FC
+13,T. Souček,0,0,0,0,0,0,0,0,11,0,1,0,0,0,1,West Ham United FC
+14,G. Earthy,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,West Ham United FC
+15,M. Cornet,0,0,0,0,0,0,0,0,6,0,0,0,1,0,1,West Ham United FC
+16,A. Robinson,0,0,0,0,0,0,0,0,36,1,2,0,2,0,0,Fulham FC
+17,A. Iwobi,0,1,0,0,1,2,1,0,28,1,0,0,0,0,0,Fulham FC
+18,João Palhinha,0,0,0,0,0,3,1,0,35,0,9,0,3,1,0,Fulham FC
+19,B. Leno,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,Fulham FC
+20,C. Bassey,0,0,0,0,0,0,0,0,59,0,4,0,0,0,0,Fulham FC
+21,Andreas Pereira,2,0,0,1,0,4,3,0,32,5,0,0,2,1,0,Fulham FC
+22,S. Lukić,0,0,0,0,0,1,0,1,31,0,2,0,3,1,0,Fulham FC
+23,T. Adarabioyo,0,0,0,0,0,0,0,0,46,0,1,0,0,0,0,Fulham FC
+24,Willian,0,0,0,0,2,2,1,1,39,1,2,0,0,0,0,Fulham FC
+25,Rodrigo Muniz,0,0,0,0,0,5,3,1,16,0,0,0,0,2,0,Fulham FC
+26,T. Castagne,0,0,0,0,0,0,0,0,24,2,2,0,0,1,0,Fulham FC
+27,B. De Cordova-Reid,0,0,0,1,0,0,0,0,8,0,2,0,1,0,0,Fulham FC
+28,H. Wilson,0,0,0,0,0,0,0,0,8,0,1,0,2,0,0,Fulham FC
+29,Adama Traoré,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,Fulham FC
+30,A. Broja,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Fulham FC
+31,H. Reed,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,Fulham FC
